@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+	<Extension path="/MonoDevelop/Refactoring/CodeIssues">
+		<CodeIssue mimeType="text/x-csharp" severity="Error" class="TestRefactor.TestRefactorIssue"/>
+	</Extension>
+</ExtensionModel>
